@@ -1,8 +1,26 @@
-layout_spectrum: 0.155914
-typography_spectrum: 0.3584229
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3243728
 color:
-  saturation: 0.9193549
-  brandStrength: 0.5548201
-  lightness: 0.8476703
-  rhythmicContrast: 1
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#1C1211'
+    - '#C5372D'
+    - '#886057'
+    - '#FFAD7F'
+  rhythmicContrast: 0.5376344
+layout_spectrum: 0
 name: GospelFuel
