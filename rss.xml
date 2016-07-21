@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GospelFuel]]></title>
+        <description><![CDATA[GospelFuel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jul 2016 20:35:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad85a472-b6b7-43d3-a0b8-33e43fbbdbf1.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad85a472-b6b7-43d3-a0b8-33e43fbbdbf1.jpg</link>
+            <guid isPermaLink="false">f7a8f903-8a9c-40a3-bb1a-f75d13a9ce29</guid>
+            <pubDate>Thu, 21 Jul 2016 20:35:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
