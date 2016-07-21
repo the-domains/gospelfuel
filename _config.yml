@@ -10,8 +10,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.3243728
 color:
-  saturation: 0
+  saturation: 0.5573477
   brandStrength: 0.5286738
   lightness: 1
   brandColors:
@@ -20,7 +21,6 @@ color:
     - '#F5BE3B'
     - '#4D1C1A'
     - '#71BADA'
-  rhythmicContrast: 0
-typography_spectrum: 0.3243728
+  rhythmicContrast: 0.5824373
 layout_spectrum: 0.2706093
 name: GospelFuel
