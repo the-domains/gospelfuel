@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.7365592
 color:
   saturation: 1
-  brandStrength: 0.5286738
+  brandStrength: 0.9910395
   lightness: 1
   brandColors:
-    - '#FFFFFF'
-    - '#C6792C'
-    - '#F5BE3B'
-    - '#4D1C1A'
-    - '#71BADA'
+    - '#0A080B'
+    - '#FCF4E0'
+    - '#EF7021'
+    - '#04438B'
+    - '#5499BF'
   rhythmicContrast: 1
 layout_spectrum: 0.2706093
 name: GospelFuel
