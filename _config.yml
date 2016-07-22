@@ -10,6 +10,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.7365592
 color:
   saturation: 1
   brandStrength: 0
@@ -21,6 +22,5 @@ color:
     - '#04438B'
     - '#5499BF'
   rhythmicContrast: 1
-typography_spectrum: 0.7365592
-layout_spectrum: 0.2706093
+layout_spectrum: 0.2598566
 name: GospelFuel
