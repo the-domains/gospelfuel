@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.5215054
   brandStrength: 1
-  lightness: 0.688172
+  rhythmicContrast: 1
   brandColors:
     - '#FEFEFE'
     - '#515151'
     - '#010101'
     - '#DD5E30'
     - '#E80C10'
-  rhythmicContrast: 1
+  lightness: 0.688172
 typography_spectrum: 0.8100358
-layout_spectrum: 0.3172043
+layout_spectrum: 0
 name: GospelFuel
